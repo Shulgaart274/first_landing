@@ -1,0 +1,66 @@
+.main {
+  background-color: #eee;
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+  color: #333;
+}
+
+.heading__title {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.heading__describe {
+  font-size: 1rem;
+}
+
+.img__div {
+  background: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.img__caption {
+  margin: 15px 0 5px 0;
+}
+
+.headline {
+  margin: 50px 0;
+}
+
+.date__list {
+  max-width: 550px;
+  text-align: left;
+  margin: 0 auto 50px auto;
+  line-height: 1.6;
+}
+
+.date__list li {
+  margin: 16px 0;
+}
+
+.quote {
+  max-width: 545px;
+  font-style: italic;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+.wiki__link {
+  color: #477ca7;
+}
+
+.wiki__link:visited {
+  color: #74638f;
+}
